@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @iulia-rusu
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning Seurat 
+
 
 
 <!---
